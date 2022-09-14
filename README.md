@@ -2,4 +2,4 @@
 This repository is for the website I create, and for its maintenance.
 
 # Link
-[link](https://kosentohokudai.herokuapp.com/index.html)
+[Access the website](https://fast-dawn-20502.herokuapp.com/)
