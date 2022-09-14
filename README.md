@@ -1,5 +1,5 @@
 # Website
-This repository is for the website I create, and for its maintenance.
+作成したウェブサイトの紹介
 
 # Link
 [Access the website](https://fast-dawn-20502.herokuapp.com/)
